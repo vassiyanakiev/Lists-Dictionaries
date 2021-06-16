@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\ListManipulationBasic\bin\Debug\netcoreapp3.1\ListManipulationBasic.exe
+C:\Users\PC\source\repos\ListManipulationBasic\bin\Debug\netcoreapp3.1\ListManipulationBasic.deps.json
+C:\Users\PC\source\repos\ListManipulationBasic\bin\Debug\netcoreapp3.1\ListManipulationBasic.runtimeconfig.json
+C:\Users\PC\source\repos\ListManipulationBasic\bin\Debug\netcoreapp3.1\ListManipulationBasic.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ListManipulationBasic\bin\Debug\netcoreapp3.1\ListManipulationBasic.dll
+C:\Users\PC\source\repos\ListManipulationBasic\bin\Debug\netcoreapp3.1\ListManipulationBasic.pdb
+C:\Users\PC\source\repos\ListManipulationBasic\obj\Debug\netcoreapp3.1\ListManipulationBasic.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ListManipulationBasic\obj\Debug\netcoreapp3.1\ListManipulationBasic.AssemblyInfo.cs
+C:\Users\PC\source\repos\ListManipulationBasic\obj\Debug\netcoreapp3.1\ListManipulationBasic.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ListManipulationBasic\obj\Debug\netcoreapp3.1\ListManipulationBasic.dll
+C:\Users\PC\source\repos\ListManipulationBasic\obj\Debug\netcoreapp3.1\ListManipulationBasic.pdb
+C:\Users\PC\source\repos\ListManipulationBasic\obj\Debug\netcoreapp3.1\ListManipulationBasic.genruntimeconfig.cache
